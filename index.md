@@ -44,7 +44,7 @@
 
 ### Publications
 
-1. Z. Lin, Z. Yan, **G. Zhang**, The Cauchy problem of any n-component SaSa-Satsuma system: vector-solitons resolution and long-time asymptotics, [J. Differential Equations] (https://doi.org/10.1016/j.jde.2026.114480) 476 (2026) 114480.
+1. Z. Lin, Z. Yan, **G. Zhang**, The Cauchy problem of any n-component SaSa-Satsuma system: vector-solitons resolution and long-time asymptotics, [J. Differential Equations](https://doi.org/10.1016/j.jde.2026.114480) 476 (2026) 114480.
 2. Z. Yan, B.A. Malomed, K.W. Chow, **G. Zhang**, W. Weng, Rogue waves: Theory, methods, and applications—30 years after the Draupner wave, [Chaos](https://doi.org/10.1063/5.0282887) 35 (2025) 060402.
 3. W. Weng, **G. Zhang**, Z. Yan, The focusing complex mKdV equation with nonzero background: Large N-order asymptotics of multi-rational solitons and related Painlevé-III hierarchy, [J. Differential Equations](https://doi.org/10.1016/j.jde.2024.09.038) 415 (2025) 303-364.
 4. W. Weng, **G. Zhang**, B.A. Malomed, Z. Yan, Breather gas and shielding of the focusing nonlinear Schrödinger equation with nonzero backgrounds, [Lett. Math. Phys.](https://doi.org/10.1007/s11005-025-02005-z) 115 (2025) 113.
