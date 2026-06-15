@@ -5,7 +5,7 @@
     <td width="75%">
       <h1>Guoqiang Zhang（张国强）</h1>
       <p><b>Associate Professor</b></p>
-      <p><b>Key Lab of Mathematics Mechanization, Academy of Mathematics and Systems Science, Chinese Academy of Sciences</b></p>
+      <p><b>Academy of Mathematics and Systems Science, Chinese Academy of Sciences</b></p>
       <p><b>Office:&nbsp; Room 618, Siyuan Building</b></p>
       <p><b>Email:&nbsp; gqzhang(AT)amss(DOT)ac(DOT)cn</b></p>
       <p><b>Address:&nbsp; No.55 East Road, Zhongguancun, Haidian District, Beijing, P.R. China</b></p>
