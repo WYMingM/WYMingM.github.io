@@ -31,7 +31,8 @@
 
 ### Employment
 
-* 2021.07--Present:&nbsp; Assistant Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+* 2025.05--Present:&nbsp; Associate Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+* 2021.07--2025.05:&nbsp; Assistant Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
 * 2019.07--2021.07:&nbsp; Post-Doctoral Fellow, Department of Mathematical Science, Tsinghua University
 
 
