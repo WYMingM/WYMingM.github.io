@@ -19,6 +19,7 @@
 
 ### Research Interests
 
+* Quantum Integrable Systems and Many-Body Systems
 * Mathematical Physics and Integrable Systems 
 * Nonlinear Wave Theory and Its Applications
 * Asymptotic Theory and Riemann-Hilbert Problem
